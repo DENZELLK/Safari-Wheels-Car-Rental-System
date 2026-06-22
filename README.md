@@ -4,7 +4,7 @@ Safari Wheels Car Rental System is a professional full-stack car rental e-commer
 
 ## Overview
 
-This system allows customers to browse vehicles, create rental reservations, and manage bookings through a responsive React frontend. The backend is implemented as an ASP.NET Web API that exposes REST endpoints for vehicle browsing, rentals, user management, messages, and admin operations.
+This system allows customers to browse vehicles, create rental reservations and manage bookings through a responsive React frontend. The backend is implemented as an ASP.NET Web API that exposes REST endpoints for vehicle browsing, rentals, user management, messages and admin operations.
 
 ## Features
 
@@ -98,4 +98,4 @@ Data flows from the React frontend to the backend API over HTTP. The backend han
 
 ## Author
 
-Denzel K.
+Sanele Dlomo
