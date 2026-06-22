@@ -1,0 +1,6 @@
+@SafariWheels.API_HostAddress = http://localhost:5258
+
+GET {{SafariWheels.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

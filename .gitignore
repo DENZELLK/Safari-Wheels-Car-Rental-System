@@ -1,0 +1,31 @@
+# Root Git ignore for full-stack Safari Wheels project
+
+# Node.js / Frontend
+/frontend/node_modules/
+/frontend/dist/
+/frontend/build/
+/frontend/.env
+/frontend/.env.*
+/frontend/.vite
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+
+# Backend
+/backend/bin/
+/backend/obj/
+/backend/*.user
+/backend/appsettings.Development.json
+/backend/*.log
+/backend/.vs/
+
+# Common
+.DS_Store
+Thumbs.db
+node_modules/
+*.log
+npm-debug.log*
+yarn-debug.log*
+package-lock.json
+pnpm-lock.yaml
+.vscode/
