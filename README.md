@@ -86,7 +86,11 @@ Data flows from the React frontend to the backend API over HTTP. The backend han
 
 ## Screenshots
 
-(Add screenshots of homepage, dashboard, booking page, etc.)
+<img width="1677" height="752" alt="Screenshot 2026-05-08 023202" src="https://github.com/user-attachments/assets/4eb3ceae-1d15-45ac-bf5c-1f38ab178add" />
+<img width="1560" height="825" alt="Screenshot 2026-05-08 023417" src="https://github.com/user-attachments/assets/d5e3bce6-9492-4750-bc74-8e063092cb79" />
+<img width="919" height="713" alt="Screenshot 2026-05-08 023511" src="https://github.com/user-attachments/assets/cfbd1021-2411-48f8-a57d-dc0d22e0196b" />
+<img width="1642" height="913" alt="Screenshot 2026-05-08 023632" src="https://github.com/user-attachments/assets/2e168acf-67ec-410f-994c-316fc3df4b55" />
+
 
 ## Future Improvements
 
